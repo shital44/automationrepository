@@ -44,7 +44,7 @@ public class ConditionalStatements {
 		
 		else
 		{
-			System.out.println("a is less equal to b");
+			System.out.println("b is greater than a");
 		}
 }
 }
