@@ -4,7 +4,7 @@ public class DoWhileLoop {
 
 	public static void main(String[] args) {
 		int i=7;
-		do //difference is that it will go inthe iteration atleast once
+		do //difference is that it will go in the iteration atleast once
 		{
 			System.out.println(i);
 			i++;
