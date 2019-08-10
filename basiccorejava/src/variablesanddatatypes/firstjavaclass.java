@@ -16,6 +16,8 @@ char gender='F';
 double marks=7.8;//float
 String name="Shital";
 System.out.println(age);
-
+System.out.println(gender);
+System.out.println(marks);
+System.out.println(name);
 	}
 }
