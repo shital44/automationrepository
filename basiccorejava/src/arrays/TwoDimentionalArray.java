@@ -39,7 +39,7 @@ public class TwoDimentionalArray {
 		System.out.println(data[0][1]);
 		System.out.println(data[1][0]);
 		System.out.println(data[1][1]);*/
-		 for(int r=0;r<data.length;r++) //nested for (hardcore for 5 rows and 2 colums)
+ 		 for(int r=0;r<data.length;r++) //nested for (dynamic size of array use data.length for rows and data[0].length for columns)
 		 {
 			 
 		 for(int c=0;c<data[0].length;c++) 
@@ -52,6 +52,6 @@ public class TwoDimentionalArray {
 		 }
 	
 		
-}
+ }
 
 }
