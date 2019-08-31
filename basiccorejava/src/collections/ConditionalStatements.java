@@ -1,4 +1,4 @@
-package conditionalstatements;
+package collections;
 
 public class ConditionalStatements {
 
