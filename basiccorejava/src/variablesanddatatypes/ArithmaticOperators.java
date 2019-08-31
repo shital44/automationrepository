@@ -1,4 +1,4 @@
-
+ 
 package variablesanddatatypes;
 
 public class ArithmaticOperators {
@@ -7,7 +7,7 @@ public class ArithmaticOperators {
 		// TODO Auto-generated method stub
 		int i=10;
 		int j=20;
-		System.out.println(10%20);
+		System.out.println(i%j);
 
 	}
 
