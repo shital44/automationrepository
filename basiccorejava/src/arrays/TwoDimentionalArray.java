@@ -42,7 +42,7 @@ public class TwoDimentionalArray {
  		 for(int r=0;r<data.length;r++) //nested for (dynamic size of array use data.length for rows and data[0].length for columns)
 		 {
 			 
-		 for(int c=0;c<data[0].length;c++) 
+		 for(int c=0;c<data[0].length;c++) //data[0].length is used for column size
 		 {
 			 
 		 System.out.print(data[r][c]+" ");
