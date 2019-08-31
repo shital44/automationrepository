@@ -19,7 +19,7 @@ public class Functions2 {
 		{
 			System.out.println("you are not eligible  ");
 		}
- 
+  
 	}
     public static boolean eligible(int age) {
 		if (age >= 18 && age <= 30) 

@@ -18,7 +18,7 @@ public class Functions3 {
 		for(int i=0;i<arr.length;i++)
 		{
 			total=total+arr[i];
-			if(arr[i]<35)
+			if(arr[i]<35) //since in one subject marks is 33 since it is true
 			{
 				fail=true;
 			}
@@ -43,7 +43,7 @@ public class Functions3 {
 			{
 				res="Pass with first class";
 	        }else
-		if(per>=3)
+		if(per>=35)
 		{
 			res="Pass with second class";
 		}
