@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18750" started-at="2019-09-15T12:21:32 IST" finished-at="2019-09-15T12:21:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18750" started-at="2019-09-15T12:21:32 IST" finished-at="2019-09-15T12:21:51 IST">
+      <class name="testScripts.TC_MurcuryTours_Login">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testScripts.TC_MurcuryTours_Login@eec5a4a]" name="initialize" is-config="true" duration-ms="9381" started-at="2019-09-15T12:21:32 IST" finished-at="2019-09-15T12:21:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Script1()[pri:0, instance:testScripts.TC_MurcuryTours_Login@eec5a4a]" name="Script1" duration-ms="8078" started-at="2019-09-15T12:21:42 IST" finished-at="2019-09-15T12:21:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Script1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.TC_MurcuryTours_Login@eec5a4a]" name="tearDown" is-config="true" duration-ms="1209" started-at="2019-09-15T12:21:50 IST" finished-at="2019-09-15T12:21:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.TC_MurcuryTours_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
