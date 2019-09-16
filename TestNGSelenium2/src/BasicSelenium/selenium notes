@@ -1,0 +1,73 @@
+.Automate resistration
+book flight for one passanger for 1 way
+book a flight for two passanger two way
+book a flight for 1 passanger round trip
+book a flight for two passanger2 pass two round trip
+login with multiple users
+logout
+Book a flight for 1 passnger 1 way with country USA India
+
+
+we can use switch in
+
+1.Alert-dr.SwitchToalert();;
+2.Window-dr.SwichToWindow();
+3.IFrame-SwitchToIframe();
+
+when we want to access ot automate the element in other windows then we can use Window-dr.SwichToWindow(); function
+ for single window we use String parent=dr.getWindowHandle(); method
+we use Set<String> wins=dr.getWindowHandles(); to get the window number in multiple windows
+
+for Iframe
+dr.switchTo().frame(dr.findElement(By.tagName("iframe")))
+
+Xpath creations
+1.using contains
+//span[contains(text(),'TVs')]
+2.multiple nodes
+//li[@class='']/span[@class='' and text()='']
+
+3 using and
+//span[@class='' and text()='']
+ 
+ 4 using two attributes
+ //span[@class=''][second condition]
+ 
+  5 using starts-with
+  //span[starts-with(text(),'TVs')]
+ 
+
+Xpath axes
+Parent -Child
+Preceeding-Following
+Ancestor-descendants
+preceeding siblings-following siblings
+
+
+Frameworks
+1.maintanance
+2.reusability
+3.
+
+framework design types
+
+1.Data driven framework
+2.Keyword driven framework
+3.hybrid framework
+4.Moduler framework
+
+POM;
+ it is a methodology in which application is devided into pages and then we can create code 
+ 
+
+Framework 
+create new package framework
+right click->new folder ->jarfiles
+again create new folder-> BrowserDrivers 
+
+
+create all function for all pages
+
+
+
+
