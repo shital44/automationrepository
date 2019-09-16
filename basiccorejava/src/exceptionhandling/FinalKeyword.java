@@ -8,7 +8,7 @@ public class FinalKeyword extends TestFinalMethodandClass
 	{
 		//age=40;
 	}
-	public void test()
+	//public void test()
 	 {
 	 
 	 }
